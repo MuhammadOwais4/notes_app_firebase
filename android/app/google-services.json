@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439440106789",
+    "project_id": "firstprojectdart",
+    "storage_bucket": "firstprojectdart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439440106789:android:5fbdf9f1000d0ed00ba6cc",
+        "android_client_info": {
+          "package_name": "com.application.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxEeNWfus12h0Hyk7M6RTItPtT6jHP4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439440106789:android:00c25c95489b75280ba6cc",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxEeNWfus12h0Hyk7M6RTItPtT6jHP4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
